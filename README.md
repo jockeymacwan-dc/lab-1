@@ -1,0 +1,3 @@
+This simple Python script demonstrates basic arithmetic operations: addition and multiplication. It defines two functions, `add_numbers` and `multiply_numbers`, to perform these operations on two given numbers. The script then uses these functions to calculate the sum and product of two predefined numbers and prints the results.
+
+The script serves as an easy-to-understand example for beginners learning Python, showcasing how to define functions, perform basic arithmetic, and print outputs. It is a useful starting point for anyone looking to get familiar with fundamental programming concepts in Python.
